@@ -1,6 +1,7 @@
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     background: darkgray;
+    text-align: center;
 }
 h1 {
     display: flex;
@@ -73,7 +74,5 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.footer p {
     font-weight: bold;
 }
